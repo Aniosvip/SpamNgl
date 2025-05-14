@@ -1,0 +1,17 @@
+##Download python
+
+# Ubuntu / Debian
+$ sudo apt install python
+
+# Fedora
+$ sudo dnf install python
+
+
+After you download python, install required package:
+$ pip install requests
+
+
+For Windows users, you need to install python from their official site. When you install it, you need to open command prompt and type this command:
+python -m pip install requests
+
+and "requests" should be installed.
